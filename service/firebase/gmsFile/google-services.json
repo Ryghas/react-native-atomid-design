@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "483429642302",
+    "project_id": "ryshop-3507c",
+    "storage_bucket": "ryshop-3507c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483429642302:android:5cd37b9599528105bf216f",
+        "android_client_info": {
+          "package_name": "com.ryghas.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6HwNg5DNQVkCtiar346v6Wa8AhQLNqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+     {
+      "client_info": {
+        "mobilesdk_app_id": "1:483429642302:android:5cd37b9599528105bf216f",
+        "android_client_info": {
+          "package_name": "com.ryghas.shop.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6HwNg5DNQVkCtiar346v6Wa8AhQLNqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

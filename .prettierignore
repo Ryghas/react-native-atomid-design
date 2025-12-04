@@ -1,0 +1,10 @@
+node_modules
+build
+dist
+public
+android
+ios
+coverage
+.github
+.expo
+*.json

@@ -1,4 +1,10 @@
 {
   "name": "shopping-app",
-  "slug": "shopping-app"
+  "slug": "shopping-app",
+  "android": {
+    "package": "com.anugroho96.shoppingapp"
+  },
+  "ios": {
+    "bundleIdentifier": "com.anugroho96.shoppingapp"
+  }
 }
