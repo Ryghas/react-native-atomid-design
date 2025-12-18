@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "reset": "find . -type dir -name node_modules | xargs rm -rfv && watchman watch-del-all && yarn install",
     "start": "expo start --dev-client",
     "start-clear": "yarn start --clear",
     "start:staging": "NODE_ENV=staging yarn start",
