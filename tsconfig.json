@@ -1,0 +1,11 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "baseUrl": ".",
+    "paths": {
+      "@shopping-app/*": ["../../packages/shopping-app/*"],
+    }
+  },
+  "exclude": ["dist", "android", "ios"]
+}
